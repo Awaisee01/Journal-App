@@ -1,6 +1,5 @@
-// src/app/layout.js
 
-import './globals.css';  // Import global styles for Tailwind
+import './globals.css';
 
 export const metadata = {
   title: 'Journaling App',

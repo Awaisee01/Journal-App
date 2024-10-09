@@ -1,19 +1,4 @@
-// // src/app/components/JournalCard.js
-// import { MdDelete } from "react-icons/md";
 
-// const JournalCard = ({ title, content  }) => {
-//     return (
-//       <div className="p-4 border rounded-lg shadow-md">
-//         <h2 className="text-xl font-semibold">{title}</h2>
-//        <div className="flex  justify-between">
-//        <p>{content}</p>
-//        <i  className="text-3xl"><MdDelete /></i>
-//        </div>
-//       </div>
-//     );
-//   };
-  
-//   export default JournalCard;
 
 import { MdDelete } from "react-icons/md";
 
